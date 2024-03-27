@@ -1,4 +1,5 @@
 # ML Intern Task 
+<p>A basic Machine learning project for learning several supervised and unsupervised learning methods.</p>
 ### I performed:
 - EDA on the dataset
 - in total 5 supervised models
