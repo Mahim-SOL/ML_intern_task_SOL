@@ -1,7 +1,4 @@
-## ML Intern Task 
-<p>A basic project to learn about several Supervised and Unsupervised Learning. Will be writing more after 
-finishing the project</p>
-
+# ML Intern Task 
 ### I performed:
 - EDA on the dataset
 - in total 5 supervised models
